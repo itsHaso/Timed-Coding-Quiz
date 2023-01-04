@@ -133,5 +133,6 @@ function endQuiz() {
   timerEl.classList.add('hide')
   questionsEl.classList.add('hide')
   quizEnd.classList.remove('hide')
+  resultsEl.classList.add('hide')
 }
 
